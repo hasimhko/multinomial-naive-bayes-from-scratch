@@ -1,1 +1,1 @@
-# multinomial-naive-bayes-from-scratch
+# Multinomial Naive Bayes Classifier with Dirichlet Prior
